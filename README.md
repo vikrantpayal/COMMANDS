@@ -19,7 +19,7 @@ rm -r .git                      ### Delete local repo
 # PYTHON
 ```
 python3 main.py                 ### executes the python script
-python3 -m py_compile main.py        ### runs interpreter without running the code
+python3 -m py_compile main.py   ### runs interpreter without running the code
 ```
 
 # LINUX
